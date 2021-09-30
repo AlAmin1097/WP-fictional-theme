@@ -1,4 +1,6 @@
-## Fictional University 
+## Fictional University
+
 ### A basci WordPress theme
 
-Note: I'm still working on it..
+- custom post type
+- custom field type

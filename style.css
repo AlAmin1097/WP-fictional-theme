@@ -1,7 +1,11 @@
-/* 
-    Theme Name: Fictional University
-    Author: Al-Amin Khan
-    Version: 1.0
+/*
+Theme Name: Amazing Academy
+Author: MD. AL-AMIN KHAN
+Author URI: https://mdalaminkhan.com/
+Version: 0.1
+Description: The Amazing Academy theme is created for learning purpose.
+Tags: black, brown, orange, tan, white, yellow, light, one-column, two-columns, right-sidebar
+Text Domain: amazinguniversity
 */
 
 /*! normalize.css v8.0.1 | MIT License | github.com/necolas/normalize.css */
@@ -28,6 +32,9 @@ html {
 
 body {
   margin: 0;
+  overflow-wrap: break-word;
+  word-wrap: break-word;
+  hyphens: auto;
 }
 
 /**
